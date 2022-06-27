@@ -1,1 +1,1 @@
-# CMS_Django_Project
+# Django_CMS_Projects
